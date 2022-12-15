@@ -5,9 +5,6 @@
 
 - GitHub Link:
 https://github.com/kanious/FinalExam6028And6044
-- Map Source Linke:
-https://watabou.github.io/dungeon.html
-(Map image is in the solution folder - forsaken_asylum_of_koroth.png)
 
 
 
@@ -27,6 +24,8 @@ https://watabou.github.io/dungeon.html
 
 
 3. Etc Description
+- Map image is in the solution folder - forsaken_asylum_of_koroth.png
+
 - Water is in room 2, which you can see on the map image.
   (Right Up side when you reset the camera location)
 
