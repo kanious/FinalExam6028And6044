@@ -1,0 +1,22 @@
+<Texture_List>
+	<Texture>
+		<ID>GrassTexture</ID>
+		<Path>Assets\Texture\grass.jpg</Path>
+	</Texture>
+	<Texture>
+		<ID>BeholderTexture</ID>
+		<Path>Assets\Texture\Beholder_Base_color.png</Path>
+	</Texture>
+	<Texture>
+		<ID>DungeonTexture</ID>
+		<Path>Assets\Texture\Dungeons_2_Texture_01_A.png</Path>
+	</Texture>
+	<Texture>
+		<ID>FireTexture</ID>
+		<Path>Assets\Texture\flame_flipcard01-1.jpg</Path>
+	</Texture>
+	<Texture>
+		<ID>MoonTexture</ID>
+		<Path>Assets\Texture\lroc_color_poles_4k.jpg</Path>
+	</Texture>
+</Texture_List>

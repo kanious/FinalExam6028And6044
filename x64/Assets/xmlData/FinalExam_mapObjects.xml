@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Object_Data>
+	<Objects category="Camera">
+		<EyePosX>75.159882</EyePosX>
+		<EyePosY>103.883545</EyePosY>
+		<EyePosZ>152.689682</EyePosZ>
+		<EyeRotX>44.449745</EyeRotX>
+		<EyeRotY>180.150757</EyeRotY>
+		<EyeRotZ>0.000000</EyeRotZ>
+		<TargetPosX>75.158005</TargetPosX>
+		<TargetPosY>103.183258</TargetPosY>
+		<TargetPosZ>151.975815</TargetPosZ>
+	</Objects>
+	<Objects>
+		<ID>Ground</ID>
+		<PosX>0.000000</PosX>
+		<PosY>19.900000</PosY>
+		<PosZ>0.000000</PosZ>
+		<RotX>0.000000</RotX>
+		<RotY>0.000000</RotY>
+		<RotZ>0.000000</RotZ>
+		<ScaleX>200.000000</ScaleX>
+		<ScaleY>20.000000</ScaleY>
+		<ScaleZ>200.000000</ScaleZ>
+		<EffectSound></EffectSound>
+		<Lock>1</Lock>
+	</Objects>
+	<Objects>
+		<ID>Moon</ID>
+		<PosX>200.000000</PosX>
+		<PosY>200.000000</PosY>
+		<PosZ>-200.000000</PosZ>
+		<RotX>0.000000</RotX>
+		<RotY>0.000000</RotY>
+		<RotZ>0.000000</RotZ>
+		<ScaleX>10.000000</ScaleX>
+		<ScaleY>10.000000</ScaleY>
+		<ScaleZ>10.000000</ScaleZ>
+		<EffectSound></EffectSound>
+		<Lock>0</Lock>
+	</Objects>
+</Object_Data>

@@ -1,0 +1,200 @@
+<Sound_Data>
+	<Sound category="MaxChannelCount">
+		<Count>32</Count>
+	</Sound>
+	<Sound category="ChannelGroup">
+		<Tag>BG</Tag>
+	</Sound>
+	<Sound category="ChannelGroup">
+		<Tag>Environment</Tag>
+	</Sound>
+	<Sound category="ChannelGroup">
+		<Tag>Effect1</Tag>
+	</Sound>
+	<Sound category="ChannelGroup">
+		<Tag>Effect2</Tag>
+	</Sound>
+	<Sound category="ChannelGroup">
+		<Tag>Effect3</Tag>
+	</Sound>
+	<Sound category="ChannelGroup">
+		<Tag>Effect4</Tag>
+	</Sound>
+	<Sound category="ChannelGroup">
+		<Tag>Effect5</Tag>
+	</Sound>
+	<Sound category="SoundFile">
+		<Tag>ConstructionSite</Tag>
+		<Path>Assets\Sounds\drilling-in-the-wall.mp3</Path>
+		<ChannelTag>Effect1</ChannelTag>
+		<Loop>1</Loop>
+	</Sound>
+	<Sound category="SoundFile">
+		<Tag>Door</Tag>
+		<Path>Assets\Sounds\door-open-close.mp3</Path>
+		<ChannelTag>Effect2</ChannelTag>
+		<Loop>1</Loop>
+	</Sound>
+	<Sound category="SoundFile">
+		<Tag>Helicopter</Tag>
+		<Path>Assets\Sounds\engine-helicopter.mp3</Path>
+		<ChannelTag>Effect3</ChannelTag>
+		<Loop>1</Loop>
+	</Sound>
+	<Sound category="SoundFile">
+		<Tag>Police</Tag>
+		<Path>Assets\Sounds\police-siren.mp3</Path>
+		<ChannelTag>Effect4</ChannelTag>
+		<Loop>1</Loop>
+	</Sound>
+	<Sound category="SoundFile">
+		<Tag>TV</Tag>
+		<Path>Assets\Sounds\white-noise.mp3</Path>
+		<ChannelTag>Effect5</ChannelTag>
+		<Loop>1</Loop>
+	</Sound>
+	<Sound category="DSP">
+		<Tag>mixer</Tag>
+		<Type>1</Type>
+	</Sound>
+	<Sound category="DSP">
+		<Tag>oscillator</Tag>
+		<Type>2</Type>
+	</Sound>
+	<Sound category="DSP">
+		<Tag>lowpass</Tag>
+		<Type>3</Type>
+	</Sound>
+	<Sound category="DSP">
+		<Tag>itlowpass</Tag>
+		<Type>4</Type>
+	</Sound>
+	<Sound category="DSP">
+		<Tag>highpass</Tag>
+		<Type>5</Type>
+	</Sound>
+	<Sound category="DSP">
+		<Tag>echo</Tag>
+		<Type>6</Type>
+	</Sound>
+	<Sound category="DSP">
+		<Tag>fader</Tag>
+		<Type>7</Type>
+	</Sound>
+	<Sound category="DSP">
+		<Tag>flange</Tag>
+		<Type>8</Type>
+	</Sound>
+	<Sound category="DSP">
+		<Tag>distortion</Tag>
+		<Type>9</Type>
+	</Sound>
+	<Sound category="DSP">
+		<Tag>normalize</Tag>
+		<Type>10</Type>
+	</Sound>
+	<Sound category="DSP">
+		<Tag>limiter</Tag>
+		<Type>11</Type>
+	</Sound>
+	<Sound category="DSP">
+		<Tag>parameq</Tag>
+		<Type>12</Type>
+	</Sound>
+	<Sound category="DSP">
+		<Tag>pitch_shift</Tag>
+		<Type>13</Type>
+	</Sound>
+	<Sound category="DSP">
+		<Tag>chorus</Tag>
+		<Type>14</Type>
+	</Sound>
+	<Sound category="DSP">
+		<Tag>vst_plugin</Tag>
+		<Type>15</Type>
+	</Sound>
+	<Sound category="DSP">
+		<Tag>winamp_plugin</Tag>
+		<Type>16</Type>
+	</Sound>
+	<Sound category="DSP">
+		<Tag>itecho</Tag>
+		<Type>17</Type>
+	</Sound>
+	<Sound category="DSP">
+		<Tag>compressor</Tag>
+		<Type>18</Type>
+	</Sound>
+	<Sound category="DSP">
+		<Tag>sfxreverb</Tag>
+		<Type>19</Type>
+	</Sound>
+	<Sound category="DSP">
+		<Tag>lowpass_simple</Tag>
+		<Type>20</Type>
+	</Sound>
+	<Sound category="DSP">
+		<Tag>delay</Tag>
+		<Type>21</Type>
+	</Sound>
+	<Sound category="DSP">
+		<Tag>tremolo</Tag>
+		<Type>22</Type>
+	</Sound>
+	<Sound category="DSP">
+		<Tag>ladspa_plugin</Tag>
+		<Type>23</Type>
+	</Sound>
+	<Sound category="DSP">
+		<Tag>send</Tag>
+		<Type>24</Type>
+	</Sound>
+	<Sound category="DSP">
+		<Tag>return</Tag>
+		<Type>25</Type>
+	</Sound>
+	<Sound category="DSP">
+		<Tag>highpass_simple</Tag>
+		<Type>26</Type>
+	</Sound>
+	<Sound category="DSP">
+		<Tag>pan</Tag>
+		<Type>27</Type>
+	</Sound>
+	<Sound category="DSP">
+		<Tag>three_eq</Tag>
+		<Type>28</Type>
+	</Sound>
+	<Sound category="DSP">
+		<Tag>fft</Tag>
+		<Type>29</Type>
+	</Sound>
+	<Sound category="DSP">
+		<Tag>loudness_meter</Tag>
+		<Type>30</Type>
+	</Sound>
+	<Sound category="DSP">
+		<Tag>envelope_follower</Tag>
+		<Type>31</Type>
+	</Sound>
+	<Sound category="DSP">
+		<Tag>convolution_reverb</Tag>
+		<Type>32</Type>
+	</Sound>
+	<Sound category="DSP">
+		<Tag>channel_mix</Tag>
+		<Type>33</Type>
+	</Sound>
+	<Sound category="DSP">
+		<Tag>transceiver</Tag>
+		<Type>34</Type>
+	</Sound>
+	<Sound category="DSP">
+		<Tag>objectpan</Tag>
+		<Type>35</Type>
+	</Sound>
+	<Sound category="DSP">
+		<Tag>multiband_eq</Tag>
+		<Type>36</Type>
+	</Sound>
+</Sound_Data>
